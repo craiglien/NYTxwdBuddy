@@ -1,0 +1,32 @@
+name: Fetch and Process Game JSON with Python
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '45 6 * * *'  # Runs at 6:45 AM UTC every day
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          persist-credentials: false
+      - name: Set up Python
+        uses: actions/setup-python@v3
+        with:
+          python-version: '3.x'
+          architecture: 'x64'
+      - name: Run the Python script
+        run: |
+          python fetch_and_crack.py > output.txt
+      - name: Commit changes
+        run: |
+          echo $GITHUB_REPOSITORY
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          cat output.txt
+          git add -v $(cat output.txt | tail -1 | jq -r 'join(" ")')
+          git commit -m "xwdBuddy $(date +'%m/%d/%Y')"
+          git push https://oauth2:${{ secrets.PUSH_TOKEN }}@github.com/$GITHUB_REPOSITORY ${{ github.ref }}

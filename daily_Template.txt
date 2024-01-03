@@ -1,0 +1,3 @@
+Daily puzzle report: __date__
+
+__board__
