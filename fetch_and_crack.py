@@ -25,10 +25,9 @@ def ascii_board(jdata):
     board = [['*' for _ in range(board_width)] for _ in range(board_height)]
 
     # Add answers to board
-    for cell in cells:
+    for cell_index, cell in enumerate(cells):
         if 'answer' in cell:
-            cell_index = cells.index(cell)
-            row = cell_index // board_height
+            row = cell_index // board_width
             col = cell_index % board_width
             board[row][col] = cell['answer']
 
