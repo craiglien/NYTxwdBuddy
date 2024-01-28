@@ -1,0 +1,2096 @@
+{
+  "board": "*BMX\nMAAM\nANNA\nNAAN\nINN*\nAAA*",
+  "json": {
+    "body": [
+      {
+        "SVG": {
+          "attributes": [
+            {
+              "name": "xmlns",
+              "value": "http://www.w3.org/2000/svg"
+            },
+            {
+              "name": "viewBox",
+              "value": "0 0 506.00 756.00"
+            }
+          ],
+          "children": [
+            {
+              "children": [
+                {
+                  "attributes": [
+                    {
+                      "name": "id",
+                      "value": "checked"
+                    }
+                  ],
+                  "children": [
+                    {
+                      "attributes": [
+                        {
+                          "name": "x1",
+                          "value": "128.00"
+                        },
+                        {
+                          "name": "y1",
+                          "value": "3.00"
+                        },
+                        {
+                          "name": "x2",
+                          "value": "3.00"
+                        },
+                        {
+                          "name": "y2",
+                          "value": "128.00"
+                        },
+                        {
+                          "name": "class",
+                          "value": "slash"
+                        }
+                      ],
+                      "name": "line"
+                    }
+                  ],
+                  "name": "g"
+                },
+                {
+                  "attributes": [
+                    {
+                      "name": "id",
+                      "value": "modified"
+                    }
+                  ],
+                  "children": [
+                    {
+                      "attributes": [
+                        {
+                          "name": "points",
+                          "value": "128.00,3.00 86.33,3.00 128.00,44.67"
+                        },
+                        {
+                          "name": "class",
+                          "value": "flag"
+                        }
+                      ],
+                      "name": "polygon"
+                    }
+                  ],
+                  "name": "g"
+                },
+                {
+                  "attributes": [
+                    {
+                      "name": "id",
+                      "value": "revealed"
+                    }
+                  ],
+                  "children": [
+                    {
+                      "attributes": [
+                        {
+                          "name": "points",
+                          "value": "128.00,3.00 86.33,3.00 128.00,44.67"
+                        },
+                        {
+                          "name": "class",
+                          "value": "flag"
+                        }
+                      ],
+                      "name": "polygon"
+                    },
+                    {
+                      "attributes": [
+                        {
+                          "name": "cx",
+                          "value": "115.80"
+                        },
+                        {
+                          "name": "cy",
+                          "value": "15.20"
+                        },
+                        {
+                          "name": "r",
+                          "value": "6.10"
+                        },
+                        {
+                          "name": "class",
+                          "value": "tatter"
+                        }
+                      ],
+                      "name": "circle"
+                    }
+                  ],
+                  "name": "g"
+                }
+              ],
+              "name": "defs"
+            },
+            {
+              "attributes": [
+                {
+                  "name": "data-group",
+                  "value": "cells"
+                }
+              ],
+              "children": [
+                {
+                  "children": [
+                    {
+                      "attributes": [
+                        {
+                          "name": "x",
+                          "value": "3.00"
+                        },
+                        {
+                          "name": "y",
+                          "value": "3.00"
+                        },
+                        {
+                          "name": "width",
+                          "value": "125.00"
+                        },
+                        {
+                          "name": "height",
+                          "value": "125.00"
+                        },
+                        {
+                          "name": "fill",
+                          "value": "black"
+                        }
+                      ],
+                      "name": "rect"
+                    }
+                  ],
+                  "name": "g"
+                },
+                {
+                  "children": [
+                    {
+                      "attributes": [
+                        {
+                          "name": "x",
+                          "value": "128.00"
+                        },
+                        {
+                          "name": "y",
+                          "value": "3.00"
+                        },
+                        {
+                          "name": "width",
+                          "value": "125.00"
+                        },
+                        {
+                          "name": "height",
+                          "value": "125.00"
+                        },
+                        {
+                          "name": "fill",
+                          "value": "none"
+                        }
+                      ],
+                      "name": "rect"
+                    },
+                    {
+                      "attributes": [
+                        {
+                          "name": "d",
+                          "value": "M128.50 65.75 a62.25 62.25 0 1 0 62.25 -62.25"
+                        },
+                        {
+                          "name": "stroke",
+                          "value": "dimgray"
+                        },
+                        {
+                          "name": "fill",
+                          "value": "none"
+                        },
+                        {
+                          "name": "vector-effect",
+                          "value": "non-scaling-stroke"
+                        }
+                      ],
+                      "name": "path"
+                    },
+                    {
+                      "attributes": [
+                        {
+                          "name": "x",
+                          "value": "130.00"
+                        },
+                        {
+                          "name": "y",
+                          "value": "45.17"
+                        },
+                        {
+                          "name": "text-anchor",
+                          "value": "start"
+                        },
+                        {
+                          "name": "font-size",
+                          "value": "41.67"
+                        }
+                      ],
+                      "content": "1",
+                      "name": "text"
+                    },
+                    {
+                      "attributes": [
+                        {
+                          "name": "x",
+                          "value": "190.50"
+                        },
+                        {
+                          "name": "y",
+                          "value": "117.58"
+                        },
+                        {
+                          "name": "text-anchor",
+                          "value": "middle"
+                        },
+                        {
+                          "name": "font-size",
+                          "value": "83.33"
+                        }
+                      ],
+                      "name": "text"
+                    }
+                  ],
+                  "name": "g"
+                },
+                {
+                  "children": [
+                    {
+                      "attributes": [
+                        {
+                          "name": "x",
+                          "value": "253.00"
+                        },
+                        {
+                          "name": "y",
+                          "value": "3.00"
+                        },
+                        {
+                          "name": "width",
+                          "value": "125.00"
+                        },
+                        {
+                          "name": "height",
+                          "value": "125.00"
+                        },
+                        {
+                          "name": "fill",
+                          "value": "none"
+                        }
+                      ],
+                      "name": "rect"
+                    },
+                    {
+                      "attributes": [
+                        {
+                          "name": "x",
+                          "value": "255.00"
+                        },
+                        {
+                          "name": "y",
+                          "value": "45.17"
+                        },
+                        {
+                          "name": "text-anchor",
+                          "value": "start"
+                        },
+                        {
+                          "name": "font-size",
+                          "value": "41.67"
+                        }
+                      ],
+                      "content": "2",
+                      "name": "text"
+                    },
+                    {
+                      "attributes": [
+                        {
+                          "name": "x",
+                          "value": "315.50"
+                        },
+                        {
+                          "name": "y",
+                          "value": "117.58"
+                        },
+                        {
+                          "name": "text-anchor",
+                          "value": "middle"
+                        },
+                        {
+                          "name": "font-size",
+                          "value": "83.33"
+                        }
+                      ],
+                      "name": "text"
+                    }
+                  ],
+                  "name": "g"
+                },
+                {
+                  "children": [
+                    {
+                      "attributes": [
+                        {
+                          "name": "x",
+                          "value": "378.00"
+                        },
+                        {
+                          "name": "y",
+                          "value": "3.00"
+                        },
+                        {
+                          "name": "width",
+                          "value": "125.00"
+                        },
+                        {
+                          "name": "height",
+                          "value": "125.00"
+                        },
+                        {
+                          "name": "fill",
+                          "value": "none"
+                        }
+                      ],
+                      "name": "rect"
+                    },
+                    {
+                      "attributes": [
+                        {
+                          "name": "x",
+                          "value": "380.00"
+                        },
+                        {
+                          "name": "y",
+                          "value": "45.17"
+                        },
+                        {
+                          "name": "text-anchor",
+                          "value": "start"
+                        },
+                        {
+                          "name": "font-size",
+                          "value": "41.67"
+                        }
+                      ],
+                      "content": "3",
+                      "name": "text"
+                    },
+                    {
+                      "attributes": [
+                        {
+                          "name": "x",
+                          "value": "440.50"
+                        },
+                        {
+                          "name": "y",
+                          "value": "117.58"
+                        },
+                        {
+                          "name": "text-anchor",
+                          "value": "middle"
+                        },
+                        {
+                          "name": "font-size",
+                          "value": "83.33"
+                        }
+                      ],
+                      "name": "text"
+                    }
+                  ],
+                  "name": "g"
+                },
+                {
+                  "children": [
+                    {
+                      "attributes": [
+                        {
+                          "name": "x",
+                          "value": "3.00"
+                        },
+                        {
+                          "name": "y",
+                          "value": "128.00"
+                        },
+                        {
+                          "name": "width",
+                          "value": "125.00"
+                        },
+                        {
+                          "name": "height",
+                          "value": "125.00"
+                        },
+                        {
+                          "name": "fill",
+                          "value": "none"
+                        }
+                      ],
+                      "name": "rect"
+                    },
+                    {
+                      "attributes": [
+                        {
+                          "name": "x",
+                          "value": "5.00"
+                        },
+                        {
+                          "name": "y",
+                          "value": "170.17"
+                        },
+                        {
+                          "name": "text-anchor",
+                          "value": "start"
+                        },
+                        {
+                          "name": "font-size",
+                          "value": "41.67"
+                        }
+                      ],
+                      "content": "4",
+                      "name": "text"
+                    },
+                    {
+                      "attributes": [
+                        {
+                          "name": "x",
+                          "value": "65.50"
+                        },
+                        {
+                          "name": "y",
+                          "value": "242.58"
+                        },
+                        {
+                          "name": "text-anchor",
+                          "value": "middle"
+                        },
+                        {
+                          "name": "font-size",
+                          "value": "83.33"
+                        }
+                      ],
+                      "name": "text"
+                    }
+                  ],
+                  "name": "g"
+                },
+                {
+                  "children": [
+                    {
+                      "attributes": [
+                        {
+                          "name": "x",
+                          "value": "128.00"
+                        },
+                        {
+                          "name": "y",
+                          "value": "128.00"
+                        },
+                        {
+                          "name": "width",
+                          "value": "125.00"
+                        },
+                        {
+                          "name": "height",
+                          "value": "125.00"
+                        },
+                        {
+                          "name": "fill",
+                          "value": "none"
+                        }
+                      ],
+                      "name": "rect"
+                    },
+                    {
+                      "attributes": [
+                        {
+                          "name": "x",
+                          "value": "190.50"
+                        },
+                        {
+                          "name": "y",
+                          "value": "242.58"
+                        },
+                        {
+                          "name": "text-anchor",
+                          "value": "middle"
+                        },
+                        {
+                          "name": "font-size",
+                          "value": "83.33"
+                        }
+                      ],
+                      "name": "text"
+                    }
+                  ],
+                  "name": "g"
+                },
+                {
+                  "children": [
+                    {
+                      "attributes": [
+                        {
+                          "name": "x",
+                          "value": "253.00"
+                        },
+                        {
+                          "name": "y",
+                          "value": "128.00"
+                        },
+                        {
+                          "name": "width",
+                          "value": "125.00"
+                        },
+                        {
+                          "name": "height",
+                          "value": "125.00"
+                        },
+                        {
+                          "name": "fill",
+                          "value": "none"
+                        }
+                      ],
+                      "name": "rect"
+                    },
+                    {
+                      "attributes": [
+                        {
+                          "name": "cx",
+                          "value": "315.50"
+                        },
+                        {
+                          "name": "cy",
+                          "value": "190.50"
+                        },
+                        {
+                          "name": "r",
+                          "value": "62.25"
+                        },
+                        {
+                          "name": "stroke",
+                          "value": "dimgray"
+                        },
+                        {
+                          "name": "fill",
+                          "value": "none"
+                        },
+                        {
+                          "name": "vector-effect",
+                          "value": "non-scaling-stroke"
+                        }
+                      ],
+                      "name": "circle"
+                    },
+                    {
+                      "attributes": [
+                        {
+                          "name": "x",
+                          "value": "315.50"
+                        },
+                        {
+                          "name": "y",
+                          "value": "242.58"
+                        },
+                        {
+                          "name": "text-anchor",
+                          "value": "middle"
+                        },
+                        {
+                          "name": "font-size",
+                          "value": "83.33"
+                        }
+                      ],
+                      "name": "text"
+                    }
+                  ],
+                  "name": "g"
+                },
+                {
+                  "children": [
+                    {
+                      "attributes": [
+                        {
+                          "name": "x",
+                          "value": "378.00"
+                        },
+                        {
+                          "name": "y",
+                          "value": "128.00"
+                        },
+                        {
+                          "name": "width",
+                          "value": "125.00"
+                        },
+                        {
+                          "name": "height",
+                          "value": "125.00"
+                        },
+                        {
+                          "name": "fill",
+                          "value": "none"
+                        }
+                      ],
+                      "name": "rect"
+                    },
+                    {
+                      "attributes": [
+                        {
+                          "name": "x",
+                          "value": "440.50"
+                        },
+                        {
+                          "name": "y",
+                          "value": "242.58"
+                        },
+                        {
+                          "name": "text-anchor",
+                          "value": "middle"
+                        },
+                        {
+                          "name": "font-size",
+                          "value": "83.33"
+                        }
+                      ],
+                      "name": "text"
+                    }
+                  ],
+                  "name": "g"
+                },
+                {
+                  "children": [
+                    {
+                      "attributes": [
+                        {
+                          "name": "x",
+                          "value": "3.00"
+                        },
+                        {
+                          "name": "y",
+                          "value": "253.00"
+                        },
+                        {
+                          "name": "width",
+                          "value": "125.00"
+                        },
+                        {
+                          "name": "height",
+                          "value": "125.00"
+                        },
+                        {
+                          "name": "fill",
+                          "value": "none"
+                        }
+                      ],
+                      "name": "rect"
+                    },
+                    {
+                      "attributes": [
+                        {
+                          "name": "x",
+                          "value": "5.00"
+                        },
+                        {
+                          "name": "y",
+                          "value": "295.17"
+                        },
+                        {
+                          "name": "text-anchor",
+                          "value": "start"
+                        },
+                        {
+                          "name": "font-size",
+                          "value": "41.67"
+                        }
+                      ],
+                      "content": "5",
+                      "name": "text"
+                    },
+                    {
+                      "attributes": [
+                        {
+                          "name": "x",
+                          "value": "65.50"
+                        },
+                        {
+                          "name": "y",
+                          "value": "367.58"
+                        },
+                        {
+                          "name": "text-anchor",
+                          "value": "middle"
+                        },
+                        {
+                          "name": "font-size",
+                          "value": "83.33"
+                        }
+                      ],
+                      "name": "text"
+                    }
+                  ],
+                  "name": "g"
+                },
+                {
+                  "children": [
+                    {
+                      "attributes": [
+                        {
+                          "name": "x",
+                          "value": "128.00"
+                        },
+                        {
+                          "name": "y",
+                          "value": "253.00"
+                        },
+                        {
+                          "name": "width",
+                          "value": "125.00"
+                        },
+                        {
+                          "name": "height",
+                          "value": "125.00"
+                        },
+                        {
+                          "name": "fill",
+                          "value": "none"
+                        }
+                      ],
+                      "name": "rect"
+                    },
+                    {
+                      "attributes": [
+                        {
+                          "name": "x",
+                          "value": "190.50"
+                        },
+                        {
+                          "name": "y",
+                          "value": "367.58"
+                        },
+                        {
+                          "name": "text-anchor",
+                          "value": "middle"
+                        },
+                        {
+                          "name": "font-size",
+                          "value": "83.33"
+                        }
+                      ],
+                      "name": "text"
+                    }
+                  ],
+                  "name": "g"
+                },
+                {
+                  "children": [
+                    {
+                      "attributes": [
+                        {
+                          "name": "x",
+                          "value": "253.00"
+                        },
+                        {
+                          "name": "y",
+                          "value": "253.00"
+                        },
+                        {
+                          "name": "width",
+                          "value": "125.00"
+                        },
+                        {
+                          "name": "height",
+                          "value": "125.00"
+                        },
+                        {
+                          "name": "fill",
+                          "value": "none"
+                        }
+                      ],
+                      "name": "rect"
+                    },
+                    {
+                      "attributes": [
+                        {
+                          "name": "cx",
+                          "value": "315.50"
+                        },
+                        {
+                          "name": "cy",
+                          "value": "315.50"
+                        },
+                        {
+                          "name": "r",
+                          "value": "62.25"
+                        },
+                        {
+                          "name": "stroke",
+                          "value": "dimgray"
+                        },
+                        {
+                          "name": "fill",
+                          "value": "none"
+                        },
+                        {
+                          "name": "vector-effect",
+                          "value": "non-scaling-stroke"
+                        }
+                      ],
+                      "name": "circle"
+                    },
+                    {
+                      "attributes": [
+                        {
+                          "name": "x",
+                          "value": "315.50"
+                        },
+                        {
+                          "name": "y",
+                          "value": "367.58"
+                        },
+                        {
+                          "name": "text-anchor",
+                          "value": "middle"
+                        },
+                        {
+                          "name": "font-size",
+                          "value": "83.33"
+                        }
+                      ],
+                      "name": "text"
+                    }
+                  ],
+                  "name": "g"
+                },
+                {
+                  "children": [
+                    {
+                      "attributes": [
+                        {
+                          "name": "x",
+                          "value": "378.00"
+                        },
+                        {
+                          "name": "y",
+                          "value": "253.00"
+                        },
+                        {
+                          "name": "width",
+                          "value": "125.00"
+                        },
+                        {
+                          "name": "height",
+                          "value": "125.00"
+                        },
+                        {
+                          "name": "fill",
+                          "value": "none"
+                        }
+                      ],
+                      "name": "rect"
+                    },
+                    {
+                      "attributes": [
+                        {
+                          "name": "x",
+                          "value": "440.50"
+                        },
+                        {
+                          "name": "y",
+                          "value": "367.58"
+                        },
+                        {
+                          "name": "text-anchor",
+                          "value": "middle"
+                        },
+                        {
+                          "name": "font-size",
+                          "value": "83.33"
+                        }
+                      ],
+                      "name": "text"
+                    }
+                  ],
+                  "name": "g"
+                },
+                {
+                  "children": [
+                    {
+                      "attributes": [
+                        {
+                          "name": "x",
+                          "value": "3.00"
+                        },
+                        {
+                          "name": "y",
+                          "value": "378.00"
+                        },
+                        {
+                          "name": "width",
+                          "value": "125.00"
+                        },
+                        {
+                          "name": "height",
+                          "value": "125.00"
+                        },
+                        {
+                          "name": "fill",
+                          "value": "none"
+                        }
+                      ],
+                      "name": "rect"
+                    },
+                    {
+                      "attributes": [
+                        {
+                          "name": "x",
+                          "value": "5.00"
+                        },
+                        {
+                          "name": "y",
+                          "value": "420.17"
+                        },
+                        {
+                          "name": "text-anchor",
+                          "value": "start"
+                        },
+                        {
+                          "name": "font-size",
+                          "value": "41.67"
+                        }
+                      ],
+                      "content": "6",
+                      "name": "text"
+                    },
+                    {
+                      "attributes": [
+                        {
+                          "name": "x",
+                          "value": "65.50"
+                        },
+                        {
+                          "name": "y",
+                          "value": "492.58"
+                        },
+                        {
+                          "name": "text-anchor",
+                          "value": "middle"
+                        },
+                        {
+                          "name": "font-size",
+                          "value": "83.33"
+                        }
+                      ],
+                      "name": "text"
+                    }
+                  ],
+                  "name": "g"
+                },
+                {
+                  "children": [
+                    {
+                      "attributes": [
+                        {
+                          "name": "x",
+                          "value": "128.00"
+                        },
+                        {
+                          "name": "y",
+                          "value": "378.00"
+                        },
+                        {
+                          "name": "width",
+                          "value": "125.00"
+                        },
+                        {
+                          "name": "height",
+                          "value": "125.00"
+                        },
+                        {
+                          "name": "fill",
+                          "value": "none"
+                        }
+                      ],
+                      "name": "rect"
+                    },
+                    {
+                      "attributes": [
+                        {
+                          "name": "x",
+                          "value": "190.50"
+                        },
+                        {
+                          "name": "y",
+                          "value": "492.58"
+                        },
+                        {
+                          "name": "text-anchor",
+                          "value": "middle"
+                        },
+                        {
+                          "name": "font-size",
+                          "value": "83.33"
+                        }
+                      ],
+                      "name": "text"
+                    }
+                  ],
+                  "name": "g"
+                },
+                {
+                  "children": [
+                    {
+                      "attributes": [
+                        {
+                          "name": "x",
+                          "value": "253.00"
+                        },
+                        {
+                          "name": "y",
+                          "value": "378.00"
+                        },
+                        {
+                          "name": "width",
+                          "value": "125.00"
+                        },
+                        {
+                          "name": "height",
+                          "value": "125.00"
+                        },
+                        {
+                          "name": "fill",
+                          "value": "none"
+                        }
+                      ],
+                      "name": "rect"
+                    },
+                    {
+                      "attributes": [
+                        {
+                          "name": "cx",
+                          "value": "315.50"
+                        },
+                        {
+                          "name": "cy",
+                          "value": "440.50"
+                        },
+                        {
+                          "name": "r",
+                          "value": "62.25"
+                        },
+                        {
+                          "name": "stroke",
+                          "value": "dimgray"
+                        },
+                        {
+                          "name": "fill",
+                          "value": "none"
+                        },
+                        {
+                          "name": "vector-effect",
+                          "value": "non-scaling-stroke"
+                        }
+                      ],
+                      "name": "circle"
+                    },
+                    {
+                      "attributes": [
+                        {
+                          "name": "x",
+                          "value": "315.50"
+                        },
+                        {
+                          "name": "y",
+                          "value": "492.58"
+                        },
+                        {
+                          "name": "text-anchor",
+                          "value": "middle"
+                        },
+                        {
+                          "name": "font-size",
+                          "value": "83.33"
+                        }
+                      ],
+                      "name": "text"
+                    }
+                  ],
+                  "name": "g"
+                },
+                {
+                  "children": [
+                    {
+                      "attributes": [
+                        {
+                          "name": "x",
+                          "value": "378.00"
+                        },
+                        {
+                          "name": "y",
+                          "value": "378.00"
+                        },
+                        {
+                          "name": "width",
+                          "value": "125.00"
+                        },
+                        {
+                          "name": "height",
+                          "value": "125.00"
+                        },
+                        {
+                          "name": "fill",
+                          "value": "none"
+                        }
+                      ],
+                      "name": "rect"
+                    },
+                    {
+                      "attributes": [
+                        {
+                          "name": "x",
+                          "value": "440.50"
+                        },
+                        {
+                          "name": "y",
+                          "value": "492.58"
+                        },
+                        {
+                          "name": "text-anchor",
+                          "value": "middle"
+                        },
+                        {
+                          "name": "font-size",
+                          "value": "83.33"
+                        }
+                      ],
+                      "name": "text"
+                    }
+                  ],
+                  "name": "g"
+                },
+                {
+                  "children": [
+                    {
+                      "attributes": [
+                        {
+                          "name": "x",
+                          "value": "3.00"
+                        },
+                        {
+                          "name": "y",
+                          "value": "503.00"
+                        },
+                        {
+                          "name": "width",
+                          "value": "125.00"
+                        },
+                        {
+                          "name": "height",
+                          "value": "125.00"
+                        },
+                        {
+                          "name": "fill",
+                          "value": "none"
+                        }
+                      ],
+                      "name": "rect"
+                    },
+                    {
+                      "attributes": [
+                        {
+                          "name": "x",
+                          "value": "5.00"
+                        },
+                        {
+                          "name": "y",
+                          "value": "545.17"
+                        },
+                        {
+                          "name": "text-anchor",
+                          "value": "start"
+                        },
+                        {
+                          "name": "font-size",
+                          "value": "41.67"
+                        }
+                      ],
+                      "content": "7",
+                      "name": "text"
+                    },
+                    {
+                      "attributes": [
+                        {
+                          "name": "x",
+                          "value": "65.50"
+                        },
+                        {
+                          "name": "y",
+                          "value": "617.58"
+                        },
+                        {
+                          "name": "text-anchor",
+                          "value": "middle"
+                        },
+                        {
+                          "name": "font-size",
+                          "value": "83.33"
+                        }
+                      ],
+                      "name": "text"
+                    }
+                  ],
+                  "name": "g"
+                },
+                {
+                  "children": [
+                    {
+                      "attributes": [
+                        {
+                          "name": "x",
+                          "value": "128.00"
+                        },
+                        {
+                          "name": "y",
+                          "value": "503.00"
+                        },
+                        {
+                          "name": "width",
+                          "value": "125.00"
+                        },
+                        {
+                          "name": "height",
+                          "value": "125.00"
+                        },
+                        {
+                          "name": "fill",
+                          "value": "none"
+                        }
+                      ],
+                      "name": "rect"
+                    },
+                    {
+                      "attributes": [
+                        {
+                          "name": "x",
+                          "value": "190.50"
+                        },
+                        {
+                          "name": "y",
+                          "value": "617.58"
+                        },
+                        {
+                          "name": "text-anchor",
+                          "value": "middle"
+                        },
+                        {
+                          "name": "font-size",
+                          "value": "83.33"
+                        }
+                      ],
+                      "name": "text"
+                    }
+                  ],
+                  "name": "g"
+                },
+                {
+                  "children": [
+                    {
+                      "attributes": [
+                        {
+                          "name": "x",
+                          "value": "253.00"
+                        },
+                        {
+                          "name": "y",
+                          "value": "503.00"
+                        },
+                        {
+                          "name": "width",
+                          "value": "125.00"
+                        },
+                        {
+                          "name": "height",
+                          "value": "125.00"
+                        },
+                        {
+                          "name": "fill",
+                          "value": "none"
+                        }
+                      ],
+                      "name": "rect"
+                    },
+                    {
+                      "attributes": [
+                        {
+                          "name": "cx",
+                          "value": "315.50"
+                        },
+                        {
+                          "name": "cy",
+                          "value": "565.50"
+                        },
+                        {
+                          "name": "r",
+                          "value": "62.25"
+                        },
+                        {
+                          "name": "stroke",
+                          "value": "dimgray"
+                        },
+                        {
+                          "name": "fill",
+                          "value": "none"
+                        },
+                        {
+                          "name": "vector-effect",
+                          "value": "non-scaling-stroke"
+                        }
+                      ],
+                      "name": "circle"
+                    },
+                    {
+                      "attributes": [
+                        {
+                          "name": "x",
+                          "value": "315.50"
+                        },
+                        {
+                          "name": "y",
+                          "value": "617.58"
+                        },
+                        {
+                          "name": "text-anchor",
+                          "value": "middle"
+                        },
+                        {
+                          "name": "font-size",
+                          "value": "83.33"
+                        }
+                      ],
+                      "name": "text"
+                    }
+                  ],
+                  "name": "g"
+                },
+                {
+                  "children": [
+                    {
+                      "attributes": [
+                        {
+                          "name": "x",
+                          "value": "378.00"
+                        },
+                        {
+                          "name": "y",
+                          "value": "503.00"
+                        },
+                        {
+                          "name": "width",
+                          "value": "125.00"
+                        },
+                        {
+                          "name": "height",
+                          "value": "125.00"
+                        },
+                        {
+                          "name": "fill",
+                          "value": "black"
+                        }
+                      ],
+                      "name": "rect"
+                    }
+                  ],
+                  "name": "g"
+                },
+                {
+                  "children": [
+                    {
+                      "attributes": [
+                        {
+                          "name": "x",
+                          "value": "3.00"
+                        },
+                        {
+                          "name": "y",
+                          "value": "628.00"
+                        },
+                        {
+                          "name": "width",
+                          "value": "125.00"
+                        },
+                        {
+                          "name": "height",
+                          "value": "125.00"
+                        },
+                        {
+                          "name": "fill",
+                          "value": "none"
+                        }
+                      ],
+                      "name": "rect"
+                    },
+                    {
+                      "attributes": [
+                        {
+                          "name": "x",
+                          "value": "5.00"
+                        },
+                        {
+                          "name": "y",
+                          "value": "670.17"
+                        },
+                        {
+                          "name": "text-anchor",
+                          "value": "start"
+                        },
+                        {
+                          "name": "font-size",
+                          "value": "41.67"
+                        }
+                      ],
+                      "content": "8",
+                      "name": "text"
+                    },
+                    {
+                      "attributes": [
+                        {
+                          "name": "x",
+                          "value": "65.50"
+                        },
+                        {
+                          "name": "y",
+                          "value": "742.58"
+                        },
+                        {
+                          "name": "text-anchor",
+                          "value": "middle"
+                        },
+                        {
+                          "name": "font-size",
+                          "value": "83.33"
+                        }
+                      ],
+                      "name": "text"
+                    }
+                  ],
+                  "name": "g"
+                },
+                {
+                  "children": [
+                    {
+                      "attributes": [
+                        {
+                          "name": "x",
+                          "value": "128.00"
+                        },
+                        {
+                          "name": "y",
+                          "value": "628.00"
+                        },
+                        {
+                          "name": "width",
+                          "value": "125.00"
+                        },
+                        {
+                          "name": "height",
+                          "value": "125.00"
+                        },
+                        {
+                          "name": "fill",
+                          "value": "none"
+                        }
+                      ],
+                      "name": "rect"
+                    },
+                    {
+                      "attributes": [
+                        {
+                          "name": "cx",
+                          "value": "190.50"
+                        },
+                        {
+                          "name": "cy",
+                          "value": "690.50"
+                        },
+                        {
+                          "name": "r",
+                          "value": "62.25"
+                        },
+                        {
+                          "name": "stroke",
+                          "value": "dimgray"
+                        },
+                        {
+                          "name": "fill",
+                          "value": "none"
+                        },
+                        {
+                          "name": "vector-effect",
+                          "value": "non-scaling-stroke"
+                        }
+                      ],
+                      "name": "circle"
+                    },
+                    {
+                      "attributes": [
+                        {
+                          "name": "x",
+                          "value": "190.50"
+                        },
+                        {
+                          "name": "y",
+                          "value": "742.58"
+                        },
+                        {
+                          "name": "text-anchor",
+                          "value": "middle"
+                        },
+                        {
+                          "name": "font-size",
+                          "value": "83.33"
+                        }
+                      ],
+                      "name": "text"
+                    }
+                  ],
+                  "name": "g"
+                },
+                {
+                  "children": [
+                    {
+                      "attributes": [
+                        {
+                          "name": "x",
+                          "value": "253.00"
+                        },
+                        {
+                          "name": "y",
+                          "value": "628.00"
+                        },
+                        {
+                          "name": "width",
+                          "value": "125.00"
+                        },
+                        {
+                          "name": "height",
+                          "value": "125.00"
+                        },
+                        {
+                          "name": "fill",
+                          "value": "none"
+                        }
+                      ],
+                      "name": "rect"
+                    },
+                    {
+                      "attributes": [
+                        {
+                          "name": "x",
+                          "value": "315.50"
+                        },
+                        {
+                          "name": "y",
+                          "value": "742.58"
+                        },
+                        {
+                          "name": "text-anchor",
+                          "value": "middle"
+                        },
+                        {
+                          "name": "font-size",
+                          "value": "83.33"
+                        }
+                      ],
+                      "name": "text"
+                    }
+                  ],
+                  "name": "g"
+                },
+                {
+                  "children": [
+                    {
+                      "attributes": [
+                        {
+                          "name": "x",
+                          "value": "378.00"
+                        },
+                        {
+                          "name": "y",
+                          "value": "628.00"
+                        },
+                        {
+                          "name": "width",
+                          "value": "125.00"
+                        },
+                        {
+                          "name": "height",
+                          "value": "125.00"
+                        },
+                        {
+                          "name": "fill",
+                          "value": "black"
+                        }
+                      ],
+                      "name": "rect"
+                    }
+                  ],
+                  "name": "g"
+                }
+              ],
+              "name": "g"
+            },
+            {
+              "attributes": [
+                {
+                  "name": "data-group",
+                  "value": "grid"
+                }
+              ],
+              "children": [
+                {
+                  "attributes": [
+                    {
+                      "name": "d",
+                      "value": "M3.00,128.00 l500.00,0.00 M3.00,253.00 l500.00,0.00 M3.00,378.00 l500.00,0.00 M3.00,503.00 l500.00,0.00 M3.00,628.00 l500.00,0.00 M128.00,3.00 l0.00,750.00 M253.00,3.00 l0.00,750.00 M378.00,3.00 l0.00,750.00"
+                    },
+                    {
+                      "name": "stroke",
+                      "value": "dimgray"
+                    },
+                    {
+                      "name": "fill",
+                      "value": "none"
+                    },
+                    {
+                      "name": "vector-effect",
+                      "value": "non-scaling-stroke"
+                    }
+                  ],
+                  "name": "path"
+                },
+                {
+                  "attributes": [
+                    {
+                      "name": "x",
+                      "value": "1.50"
+                    },
+                    {
+                      "name": "y",
+                      "value": "1.50"
+                    },
+                    {
+                      "name": "width",
+                      "value": "503.00"
+                    },
+                    {
+                      "name": "height",
+                      "value": "753.00"
+                    },
+                    {
+                      "name": "fill",
+                      "value": "none"
+                    },
+                    {
+                      "name": "stroke",
+                      "value": "black"
+                    },
+                    {
+                      "name": "stroke-width",
+                      "value": "3.00"
+                    }
+                  ],
+                  "name": "rect"
+                }
+              ],
+              "name": "g"
+            }
+          ],
+          "name": "svg",
+          "styles": [
+            {
+              "name": "font-family",
+              "value": "helvetica,arial,sans-serif"
+            }
+          ]
+        },
+        "board": "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" viewBox=\"0 0 506 756\" style=\"font-family:helvetica,arial,sans-serif;\"><defs><g id=\"checked\"><path d=\"M128 3 3 128z\" class=\"slash\" /></g><g id=\"modified\"><path d=\"M128 3H86.33L128 44.67z\" class=\"flag\" /></g><g id=\"revealed\"><path d=\"M128 3H86.33L128 44.67z\" class=\"flag\" /><circle cx=\"115.8\" cy=\"15\" r=\"6\" class=\"tatter\" /></g></defs><g class=\"cells\"><g data-index=\"0\"><path d=\"M3 3h125v125H3z\" fill=\"#000\" class=\"cell\"/></g><g data-index=\"1\"><path d=\"M128 3h125v125H128z\" fill=\"none\" class=\"cell\"/><path d=\"M128.5 65.75A62.25 62.25.0 1 0 190.75 3.5\" stroke=\"dimgray\" fill=\"none\" vector-effect=\"non-scaling-stroke\" class=\"circle\" /><text x=\"130\" y=\"45.17\" text-anchor=\"start\" font-size=\"41.67\" class=\"label\" >1</text><text x=\"190.5\" y=\"117.58\" text-anchor=\"middle\" font-size=\"83.33\" class=\"guess\"/></g><g data-index=\"2\"><path d=\"M253 3h125v125H253z\" fill=\"none\" class=\"cell\"/><text x=\"255\" y=\"45.17\" text-anchor=\"start\" font-size=\"41.67\" class=\"label\" >2</text><text x=\"315.5\" y=\"117.58\" text-anchor=\"middle\" font-size=\"83.33\" class=\"guess\"/></g><g data-index=\"3\"><path d=\"M378 3h125v125H378z\" fill=\"none\" class=\"cell\"/><text x=\"380\" y=\"45.17\" text-anchor=\"start\" font-size=\"41.67\" class=\"label\" >3</text><text x=\"440.5\" y=\"117.58\" text-anchor=\"middle\" font-size=\"83.33\" class=\"guess\"/></g><g data-index=\"4\"><path d=\"M3 128h125v125H3z\" fill=\"none\" class=\"cell\"/><text x=\"5\" y=\"170.17\" text-anchor=\"start\" font-size=\"41.67\" class=\"label\" >4</text><text x=\"65.5\" y=\"242.58\" text-anchor=\"middle\" font-size=\"83.33\" class=\"guess\"/></g><g data-index=\"5\"><path d=\"M128 128h125v125H128z\" fill=\"none\" class=\"cell\"/><text x=\"190.5\" y=\"242.58\" text-anchor=\"middle\" font-size=\"83.33\" class=\"guess\"/></g><g data-index=\"6\"><path d=\"M253 128h125v125H253z\" fill=\"none\" class=\"cell\"/><circle cx=\"315.5\" cy=\"190.5\" r=\"62.25\" stroke=\"dimgray\" fill=\"none\" vector-effect=\"non-scaling-stroke\" class=\"circle\" /><text x=\"315.5\" y=\"242.58\" text-anchor=\"middle\" font-size=\"83.33\" class=\"guess\"/></g><g data-index=\"7\"><path d=\"M378 128h125v125H378z\" fill=\"none\" class=\"cell\"/><text x=\"440.5\" y=\"242.58\" text-anchor=\"middle\" font-size=\"83.33\" class=\"guess\"/></g><g data-index=\"8\"><path d=\"M3 253h125v125H3z\" fill=\"none\" class=\"cell\"/><text x=\"5\" y=\"295.17\" text-anchor=\"start\" font-size=\"41.67\" class=\"label\" >5</text><text x=\"65.5\" y=\"367.58\" text-anchor=\"middle\" font-size=\"83.33\" class=\"guess\"/></g><g data-index=\"9\"><path d=\"M128 253h125v125H128z\" fill=\"none\" class=\"cell\"/><text x=\"190.5\" y=\"367.58\" text-anchor=\"middle\" font-size=\"83.33\" class=\"guess\"/></g><g data-index=\"10\"><path d=\"M253 253h125v125H253z\" fill=\"none\" class=\"cell\"/><circle cx=\"315.5\" cy=\"315.5\" r=\"62.25\" stroke=\"dimgray\" fill=\"none\" vector-effect=\"non-scaling-stroke\" class=\"circle\" /><text x=\"315.5\" y=\"367.58\" text-anchor=\"middle\" font-size=\"83.33\" class=\"guess\"/></g><g data-index=\"11\"><path d=\"M378 253h125v125H378z\" fill=\"none\" class=\"cell\"/><text x=\"440.5\" y=\"367.58\" text-anchor=\"middle\" font-size=\"83.33\" class=\"guess\"/></g><g data-index=\"12\"><path d=\"M3 378h125v125H3z\" fill=\"none\" class=\"cell\"/><text x=\"5\" y=\"420.17\" text-anchor=\"start\" font-size=\"41.67\" class=\"label\" >6</text><text x=\"65.5\" y=\"492.58\" text-anchor=\"middle\" font-size=\"83.33\" class=\"guess\"/></g><g data-index=\"13\"><path d=\"M128 378h125v125H128z\" fill=\"none\" class=\"cell\"/><text x=\"190.5\" y=\"492.58\" text-anchor=\"middle\" font-size=\"83.33\" class=\"guess\"/></g><g data-index=\"14\"><path d=\"M253 378h125v125H253z\" fill=\"none\" class=\"cell\"/><circle cx=\"315.5\" cy=\"440.5\" r=\"62.25\" stroke=\"dimgray\" fill=\"none\" vector-effect=\"non-scaling-stroke\" class=\"circle\" /><text x=\"315.5\" y=\"492.58\" text-anchor=\"middle\" font-size=\"83.33\" class=\"guess\"/></g><g data-index=\"15\"><path d=\"M378 378h125v125H378z\" fill=\"none\" class=\"cell\"/><text x=\"440.5\" y=\"492.58\" text-anchor=\"middle\" font-size=\"83.33\" class=\"guess\"/></g><g data-index=\"16\"><path d=\"M3 503h125v125H3z\" fill=\"none\" class=\"cell\"/><text x=\"5\" y=\"545.17\" text-anchor=\"start\" font-size=\"41.67\" class=\"label\" >7</text><text x=\"65.5\" y=\"617.58\" text-anchor=\"middle\" font-size=\"83.33\" class=\"guess\"/></g><g data-index=\"17\"><path d=\"M128 503h125v125H128z\" fill=\"none\" class=\"cell\"/><text x=\"190.5\" y=\"617.58\" text-anchor=\"middle\" font-size=\"83.33\" class=\"guess\"/></g><g data-index=\"18\"><path d=\"M253 503h125v125H253z\" fill=\"none\" class=\"cell\"/><circle cx=\"315.5\" cy=\"565.5\" r=\"62.25\" stroke=\"dimgray\" fill=\"none\" vector-effect=\"non-scaling-stroke\" class=\"circle\" /><text x=\"315.5\" y=\"617.58\" text-anchor=\"middle\" font-size=\"83.33\" class=\"guess\"/></g><g data-index=\"19\"><path d=\"M378 503h125v125H378z\" fill=\"#000\" class=\"cell\"/></g><g data-index=\"20\"><path d=\"M3 628h125v125H3z\" fill=\"none\" class=\"cell\"/><text x=\"5\" y=\"670.17\" text-anchor=\"start\" font-size=\"41.67\" class=\"label\" >8</text><text x=\"65.5\" y=\"742.58\" text-anchor=\"middle\" font-size=\"83.33\" class=\"guess\"/></g><g data-index=\"21\"><path d=\"M128 628h125v125H128z\" fill=\"none\" class=\"cell\"/><circle cx=\"190.5\" cy=\"690.5\" r=\"62.25\" stroke=\"dimgray\" fill=\"none\" vector-effect=\"non-scaling-stroke\" class=\"circle\" /><text x=\"190.5\" y=\"742.58\" text-anchor=\"middle\" font-size=\"83.33\" class=\"guess\"/></g><g data-index=\"22\"><path d=\"M253 628h125v125H253z\" fill=\"none\" class=\"cell\"/><text x=\"315.5\" y=\"742.58\" text-anchor=\"middle\" font-size=\"83.33\" class=\"guess\"/></g><g data-index=\"23\"><path d=\"M378 628h125v125H378z\" fill=\"#000\" class=\"cell\"/></g></g><g class=\"grid\"><path d=\"M3 128h5e2M3 253h5e2M3 378h5e2M3 503h5e2M3 628h5e2M128 3v750M253 3v750M378 3v750\" stroke=\"dimgray\" fill=\"none\" vector-effect=\"non-scaling-stroke\" class=\"lines\" /><path d=\"M1.5 1.5h503v753H1.5z\" fill=\"none\" stroke=\"#000\" stroke-width=\"3\" class=\"frame\" /></g></svg>",
+        "cells": [
+          {},
+          {
+            "answer": "B",
+            "clues": [
+              0,
+              6
+            ],
+            "label": "1",
+            "type": 2
+          },
+          {
+            "answer": "M",
+            "clues": [
+              0,
+              7
+            ],
+            "label": "2",
+            "type": 1
+          },
+          {
+            "answer": "X",
+            "clues": [
+              0,
+              8
+            ],
+            "label": "3",
+            "type": 1
+          },
+          {
+            "answer": "M",
+            "clues": [
+              1,
+              9
+            ],
+            "label": "4",
+            "type": 1
+          },
+          {
+            "answer": "A",
+            "clues": [
+              1,
+              6
+            ],
+            "type": 1
+          },
+          {
+            "answer": "A",
+            "clues": [
+              1,
+              7
+            ],
+            "type": 2
+          },
+          {
+            "answer": "M",
+            "clues": [
+              1,
+              8
+            ],
+            "type": 1
+          },
+          {
+            "answer": "A",
+            "clues": [
+              2,
+              9
+            ],
+            "label": "5",
+            "type": 1
+          },
+          {
+            "answer": "N",
+            "clues": [
+              2,
+              6
+            ],
+            "type": 1
+          },
+          {
+            "answer": "N",
+            "clues": [
+              2,
+              7
+            ],
+            "type": 2
+          },
+          {
+            "answer": "A",
+            "clues": [
+              2,
+              8
+            ],
+            "type": 1
+          },
+          {
+            "answer": "N",
+            "clues": [
+              3,
+              9
+            ],
+            "label": "6",
+            "type": 1
+          },
+          {
+            "answer": "A",
+            "clues": [
+              3,
+              6
+            ],
+            "type": 1
+          },
+          {
+            "answer": "A",
+            "clues": [
+              3,
+              7
+            ],
+            "type": 2
+          },
+          {
+            "answer": "N",
+            "clues": [
+              3,
+              8
+            ],
+            "type": 1
+          },
+          {
+            "answer": "I",
+            "clues": [
+              4,
+              9
+            ],
+            "label": "7",
+            "type": 1
+          },
+          {
+            "answer": "N",
+            "clues": [
+              4,
+              6
+            ],
+            "type": 1
+          },
+          {
+            "answer": "N",
+            "clues": [
+              4,
+              7
+            ],
+            "type": 2
+          },
+          {},
+          {
+            "answer": "A",
+            "clues": [
+              5,
+              9
+            ],
+            "label": "8",
+            "type": 1
+          },
+          {
+            "answer": "A",
+            "clues": [
+              5,
+              6
+            ],
+            "type": 2
+          },
+          {
+            "answer": "A",
+            "clues": [
+              5,
+              7
+            ],
+            "type": 1
+          },
+          {}
+        ],
+        "clueLists": [
+          {
+            "clues": [
+              0,
+              1,
+              2,
+              3,
+              4,
+              5
+            ],
+            "name": "Across"
+          },
+          {
+            "clues": [
+              6,
+              7,
+              8,
+              9
+            ],
+            "name": "Down"
+          }
+        ],
+        "clues": [
+          {
+            "cells": [
+              1,
+              2,
+              3
+            ],
+            "direction": "Across",
+            "label": "1",
+            "text": [
+              {
+                "plain": "Stunt bike sport, for short"
+              }
+            ]
+          },
+          {
+            "cells": [
+              4,
+              5,
+              6,
+              7
+            ],
+            "direction": "Across",
+            "label": "4",
+            "text": [
+              {
+                "plain": "Title with an apostrophe directly in the middle"
+              }
+            ]
+          },
+          {
+            "cells": [
+              8,
+              9,
+              10,
+              11
+            ],
+            "direction": "Across",
+            "label": "5",
+            "text": [
+              {
+                "formatted": "&#34;___ Karenina&#34; (Tolstoy novel)",
+                "plain": "\"___ Karenina\" (Tolstoy novel)"
+              }
+            ]
+          },
+          {
+            "cells": [
+              12,
+              13,
+              14,
+              15
+            ],
+            "direction": "Across",
+            "label": "6",
+            "text": [
+              {
+                "plain": "Fluffy Indian bread"
+              }
+            ]
+          },
+          {
+            "cells": [
+              16,
+              17,
+              18
+            ],
+            "direction": "Across",
+            "label": "7",
+            "text": [
+              {
+                "plain": "Stay right there!"
+              }
+            ]
+          },
+          {
+            "cells": [
+              20,
+              21,
+              22
+            ],
+            "direction": "Across",
+            "label": "8",
+            "text": [
+              {
+                "plain": "Battery for a TV remote"
+              }
+            ]
+          },
+          {
+            "cells": [
+              1,
+              5,
+              9,
+              13,
+              17,
+              21
+            ],
+            "direction": "Down",
+            "label": "1",
+            "list": 1,
+            "text": [
+              {
+                "plain": "Fruit depicted by the circled letters"
+              }
+            ]
+          },
+          {
+            "cells": [
+              2,
+              6,
+              10,
+              14,
+              18,
+              22
+            ],
+            "direction": "Down",
+            "label": "2",
+            "list": 1,
+            "text": [
+              {
+                "formatted": "Spanish for &#34;tomorrow&#34;",
+                "plain": "Spanish for \"tomorrow\""
+              }
+            ]
+          },
+          {
+            "cells": [
+              3,
+              7,
+              11,
+              15
+            ],
+            "direction": "Down",
+            "label": "3",
+            "list": 1,
+            "text": [
+              {
+                "plain": "Marvel Comics mutant"
+              }
+            ]
+          },
+          {
+            "cells": [
+              4,
+              8,
+              12,
+              16,
+              20
+            ],
+            "direction": "Down",
+            "label": "4",
+            "list": 1,
+            "text": [
+              {
+                "plain": "Craze"
+              }
+            ]
+          }
+        ],
+        "dimensions": {
+          "height": 6,
+          "width": 4
+        }
+      }
+    ],
+    "constructors": [
+      "Joel Fagliano"
+    ],
+    "copyright": "2024",
+    "freePuzzle": true,
+    "id": 21709,
+    "lastUpdated": "2024-01-18 17:11:42 +0000 UTC",
+    "publicationDate": "2024-01-28",
+    "subcategory": 2
+  }
+}
