@@ -1,7 +1,7 @@
-Daily puzzle report: 2024-03-14
+Daily puzzle report: 2024-03-15
 
-SPLIT
-NAIVE
-INBOX
-TERRA
-SLAYS
+*BUG*
+*APR*
+BYFAR
+BOOBY
+CURSE
